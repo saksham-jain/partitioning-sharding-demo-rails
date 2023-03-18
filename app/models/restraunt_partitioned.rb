@@ -1,0 +1,2 @@
+class RestrauntPartitioned < ApplicationRecord
+end
